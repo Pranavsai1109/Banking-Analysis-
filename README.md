@@ -25,7 +25,7 @@ High-income customers contributed the largest share of deposits.
 Certain age groups had a higher tendency for loan products.
 Strong correlation between credit card ownership and loan usage.
 
-##How to Run This Project
+## How to Run This Project
 1.Clone this repository
 2.Import the dataset into MySQL
 3.Run the Python scripts for preprocessing
