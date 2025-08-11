@@ -34,8 +34,10 @@ Strong correlation between credit card ownership and loan usage.
 
 ## Dashboard 1
 <img width="1429" height="782" alt="Screenshot 2025-08-10 235022" src="https://github.com/user-attachments/assets/3dfc6a64-dbd8-4f67-ad7f-3f63458f67c3" />
+
 ## Dashboard 2
 <img width="1167" height="657" alt="Screenshot 2025-08-11 231804" src="https://github.com/user-attachments/assets/ae9c09da-856a-41db-b5fb-b7a6c536003d" />
+
 ## Dashboard 3
 <img width="1279" height="719" alt="Screenshot 2025-08-11 232138" src="https://github.com/user-attachments/assets/f4ec9ad3-2e6b-4957-b348-8e41ad443a70" />
 
