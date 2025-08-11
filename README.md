@@ -1,7 +1,7 @@
 # BANKING ANALYSIS 
 This project is a complete banking domain data analytics solution built using Python, MySQL, and Power BI. The goal was to extract, clean, store, and analyze banking data to uncover actionable insights for business decision-making.
 ## Project Overview
-#Objective: Analyze customer demographics, financial transactions, and product usage to identify trends and improve decision-making.
+Objective: Analyze customer demographics, financial transactions, and product usage to identify trends and improve decision-making.
 # Approach:
 Data extraction and transformation using Python (Pandas, NumPy).
 Data storage and querying with MySQL.
